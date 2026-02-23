@@ -1,5 +1,3 @@
-# Pannon PTT Hírközléstechnika  
-## Rádió kommunikáció hatótávolság korlát nélkül
 
 <p align="center">
   <img src="./pictures/logo.webp" alt="Pannon PTT Hírközléstechnika. POC rendszerű adóvevő rádiók. GPS nyomkövetés." width="100%">
@@ -17,7 +15,7 @@
 
 ---
 
-# 🚀 Miért válassza a Pannon PTT rendszert?
+# 🚀 Miért válassza a Pannon PTT rádió rendszerét?
 
 A hagyományos analóg rádiós rendszerek korlátozott hatótávolságúak és költséges infrastruktúrát igényelnek. A biztonság és a zavarvédelem messze elmarad a napjainkban elvárható szinttől.
 
